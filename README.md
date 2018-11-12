@@ -1,4 +1,4 @@
-# BaseEditing frequency measurement tool
+# Base editing frequency measurement tool
 
 ### Prerequisite ###
     OS Requirements: Linux(Ubuntu 16.04)
