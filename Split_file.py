@@ -1,6 +1,4 @@
-#!/home/hkimlab/anaconda2/bin/python2.7
-
-
+#!/usr/bin/env python
 
 import sys
 import subprocess as sp

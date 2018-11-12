@@ -1,4 +1,4 @@
-#!/home/hkimlab/anaconda2/bin/python2.7
+#!/usr/bin/env python
 
 import os, sys
 from pdb import set_trace
