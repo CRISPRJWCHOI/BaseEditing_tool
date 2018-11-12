@@ -51,5 +51,7 @@
     180903_split_hiseq_10_1_1   A,G 180903_split_hiseq_10_1_1_AtoT_Summary.txt
     180903_split_hiseq_10_1_2   A,C 180903_split_hiseq_10_1_2_AtoT_Summary.txt
 
-    And run python program
+    And run the python program
     python2.7 Run_each_base_summary.py
+    
+    The output will be in "/Output/<project_name>/Summary_result/Merge_target_result"
