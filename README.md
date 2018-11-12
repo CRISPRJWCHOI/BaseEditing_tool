@@ -45,7 +45,7 @@
     Additional base editing result
     vi Additional_BaseEdit_process_list.tsv
     column1: project name
-    column2: other base editing
+    column2: other edited base
     column3: existing result file (/Output/<project_name>/Summary_result/Target)
     
     180903_split_hiseq_10_1_1   A,G 180903_split_hiseq_10_1_1_AtoT_Summary.txt
