@@ -42,7 +42,7 @@
     Sample	Barcode	Ref	# of Total	# of Insertion	# of Deletion	# of Combination	A.-7	A.-6	A.-5	A.-4	A.-3	A.-2	A.-1	A.1	A.2	A.3	A.4	A.5	A.6	A.7	A.8	A.9	A.10	A.11	A.12	A.13	A.14	A.15	A.16	A.17	A.18	A.19	A.20	A.N	 	 	A.1	A.2	A.3
     Doench2014_900	TCACTCTCTGCTGCA	CATAGGATGCCCCATCACTCACCGGGGAGGCTGAGCTTGGCGTAACTAGATCTCTACTCTACCACTTGTACTTCAGCGGTCAGCTTACTCGACTTAA	9	0	0	0	 	0	 	0	 	 	0	 	 	 	 	 	 	0	 	 	0	 	 	 	0	 	 	 	 	 	 	0	 	 	 	 	 
 
-    An additional base editing result
+    Additional base editing result
     vi Additional_BaseEdit_process_list.tsv
     column1: project name
     column2: other base editing
