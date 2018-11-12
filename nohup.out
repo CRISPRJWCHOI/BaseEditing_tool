@@ -1,0 +1,7 @@
+BaseEdit program start: 2018-11-12 11:08:29.431187
+Traceback (most recent call last):
+  File "./Run_BaseEdit_freq_ver1.0.py", line 207, in <module>
+    Main()
+  File "./Run_BaseEdit_freq_ver1.0.py", line 151, in Main
+    open('Rerun.log') as Rerun_log_check:
+IOError: [Errno 2] No such file or directory: 'Rerun.log'

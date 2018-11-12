@@ -1,0 +1,1 @@
+Sample	Barcode	Ref	# of Total	# of Insertion	# of Deletion	# of Combination	T.-7	A.-6	T.-5	A.-4	C.-3	C.-2	C.-1	T.1	A.2	C.3	C.4	A.5	C.6	A.7	G.8	G.9	G.10	T.11	C.12	A.13	G.14	C.15	C.16	T.17	C.18	C.19	C.20	C.N	G.G	G.G	T.1	G.2	A.3

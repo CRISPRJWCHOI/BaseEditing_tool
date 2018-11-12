@@ -1,0 +1,2 @@
+Sample	Barcode	Ref	# of Total	# of Insertion	# of Deletion	# of Combination	 	 	 	 	 	 	 	 	A.2	 	 	 	 	 	 	 	 	 	 	 	A.14	 	 	 	 	A.19	 	A.N	 	 	 	 	A.3
+Doench2014_901	ATGATCTCGTATACA	TGTTCCCCAGCTCTCTGTGCATGTGACAGGTGAAGCTTGGCGTAACTAGATCTCTACTCTACCACTTGTACTTCAGCGGTCAGCTTACTCGACTTAA	2	0	0	0	 	 	 	 	 	 	 	 	0	 	 	 	 	 	 	 	 	 	 	 	0	 	 	 	 	0	 	0	 	 	 	 	0
