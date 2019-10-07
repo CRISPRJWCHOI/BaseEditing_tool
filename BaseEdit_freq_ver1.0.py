@@ -428,7 +428,8 @@ def Make_output(dResult):
             ACGTACGTACGTACGTACGTGGACG
             """
             #sRef_target[iPAM_start:iPAM_end] = sPAM_seq
-            iWithout_target_len = len(sRef_target[iBarcode_len:iGuide_start])
+            #iWithout_target_len = len(sRef_target[iBarcode_len:iGuide_start])
+            iWithout_target_len = iGuide_start - iBarcode_len
             lWithout_target_pos = [-(i+1) for i in range(iWithout_target_len)][::-1]
 
             lWith_target_pos = [i + 1 for i in range(iGuide_len)]
