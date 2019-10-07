@@ -59,6 +59,7 @@
     The output will be in "/Output/<project_name>/Summary_result/Merge_target_result"
     
     motif count
-    ./Sequence_freq.py 25-32 30(thread) Project_list_split_hiseq.txt
+    ./Sequence_freq.py 25-32 30 Project_list_split_hiseq.txt
+    (./Sequence_freq.py motif_start-motif_end thread project_list_file)
     ./Sequence_freq_add.py
     
